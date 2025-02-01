@@ -1,0 +1,11 @@
+#include? "tmp.xcconfig"
+
+//
+//  Config.xcconfig
+//  Runner
+//
+//  Created by 최원진 on 2/26/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
